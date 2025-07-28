@@ -7,7 +7,7 @@ use crate::model::Subdomain;
 
 fn main() {
     let mut subdomain = Subdomain {
-        domain: "guirrugo.com".to_string(),
+        domain: "scanme.nmap.org".to_string(),
         open_ports: Vec::new(),
     };
 
